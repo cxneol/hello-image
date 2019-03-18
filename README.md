@@ -1,2 +1,3 @@
 # hello-world
-this is my ku
+这是我的ku
+加油加油！
